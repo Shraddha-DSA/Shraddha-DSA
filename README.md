@@ -42,6 +42,7 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
+---
 
 ## 🏗️ Featured Projects
 
