@@ -91,6 +91,11 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddha-DSA&theme=tokyonight"/>
 </p>
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shraddha-DSA&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🎯 Current Focus
