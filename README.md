@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shraddha Tiwari
+# Hi, I'm Shraddha Tiwari✨
 
 **AI/ML Engineer | Backend Developer (Go) | Open Source Contributor**
 
