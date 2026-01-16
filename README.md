@@ -23,6 +23,12 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9C27B0?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6A1B9A?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-795548?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20(Retrieval%20Augmented%20Generation)-283593?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-00897B?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
