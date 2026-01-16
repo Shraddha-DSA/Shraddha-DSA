@@ -64,11 +64,13 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-### 🎨 Dream-to-Design AI
-- Gemini-powered multimodal app converting ideas into product plans  
-- Generates structured UI and frontend-ready code  
+###  ResumeOPS – AI ATS Resume Analyzer (Deployed Project)
+- Built and deployed ResumeOPS, an AI-powered ATS resume analyzer that provides role-specific scoring, skill gap detection, and actionable resume improvement suggestions. 
+- Designed a hybrid evaluation system combining deterministic ATS logic with LLM-based qualitative analysis for reliable and explainable results.
+- Implemented features including resume bullet rewriting, skill roadmap generation, active job link recommendations, and downloadable PDF reports.
+- Deployed the application on Streamlit Cloud with production-grade error handling, API rate-limit resilience, and secure environment variable management.
 
-**Tech:** Gemini API, AI Studio
+**Tech:** Gemini API, ATS Scoring Logic, Prompt Engineering, NLP, Resume Parsing,DF Generation, API Rate-Limit Management, Error Handling
 
 ---
 
