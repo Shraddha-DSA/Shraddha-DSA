@@ -29,6 +29,7 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ### 🛠 Backend & Tools
 ![Go Backend](https://img.shields.io/badge/Go%20Backend-00ADD8?style=for-the-badge)
+![Gin Framework](https://img.shields.io/badge/Gin%20Framework-00ADD8?style=for-the-badge&logo=go)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![RBAC](https://img.shields.io/badge/RBAC-4A148C?style=for-the-badge)
