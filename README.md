@@ -64,7 +64,7 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-###  ResumeOPS – AI ATS Resume Analyzer (Deployed Project)
+### 📄 ResumeOPS – AI ATS Resume Analyzer (Deployed Project)
 - Built and deployed ResumeOPS, an AI-powered ATS resume analyzer that provides role-specific scoring, skill gap detection, and actionable resume improvement suggestions. 
 - Designed a hybrid evaluation system combining deterministic ATS logic with LLM-based qualitative analysis for reliable and explainable results.
 - Implemented features including resume bullet rewriting, skill roadmap generation, active job link recommendations, and downloadable PDF reports.
