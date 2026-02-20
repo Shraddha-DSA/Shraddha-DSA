@@ -1,6 +1,6 @@
 # Hi, I'm Shraddha Tiwari✨
 
-**AI/ML Engineer | Backend Developer (Go) | Open Source Contributor**
+**AI/ML Engineer | Backend Developer | Open Source Contributor**
 
 I build **end-to-end intelligent systems** by combining **machine learning models** with **scalable backend architectures**.  
 Currently focused on **AI/ML, Backend Systems, and DSA**.
@@ -36,10 +36,18 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 ### 🛠 Backend & Tools
 ![Go Backend](https://img.shields.io/badge/Go%20Backend-00ADD8?style=for-the-badge)
 ![Gin Framework](https://img.shields.io/badge/Gin%20Framework-00ADD8?style=for-the-badge&logo=go)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![RBAC](https://img.shields.io/badge/RBAC-4A148C?style=for-the-badge)
 ![Middleware](https://img.shields.io/badge/Middleware-263238?style=for-the-badge)
+
+---
+
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
