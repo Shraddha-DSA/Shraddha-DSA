@@ -59,18 +59,20 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-### 🔐 AuthVault – Go Authentication System
-- JWT-based authentication with protected routes & RBAC  
-- Custom middleware and password hashing  
-- Built without frameworks or databases  
+### ArtificialX Studio - Enterprise Machine Learning Workspace
 
-**Tech:** Go, net/http, JWT, bcrypt
+- Built a containerized, decoupled web platform that allows users to train, evaluate, and export machine learning models on tabular data without writing code.
+
+- Engineered an automated preprocessing backend via FastAPI that handles missing data imputation, categorical encoding, and model training using Scikit-Learn.
+
+- Developed a dynamic live inference engine that instantly generates user-input forms based on trained model features to serve real-time predictions.
+**Tech:** Python, FastAPI, Streamlit, Docker, Scikit-Learn
 
 ---
 
-### 🌫️ PM2.5 Air Quality Forecast
+### PM2.5 Air Quality Forecast
 - ML dashboard forecasting PM2.5 levels for Indian cities  
 - Health advisories, AQI alerts & CSV export  
 - Modern Streamlit UI  
@@ -79,7 +81,7 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-### 📄 ResumeOPS – AI ATS Resume Analyzer
+### ResumeOPS – AI ATS Resume Analyzer
 - Built and deployed ResumeOPS, an AI-powered ATS resume analyzer that provides role-specific scoring, skill gap detection, and actionable resume improvement suggestions. 
 - Designed a hybrid evaluation system combining deterministic ATS logic with LLM-based qualitative analysis for reliable and explainable results.
 - Implemented features including resume bullet rewriting, skill roadmap generation, active job link recommendations, and downloadable PDF reports.
