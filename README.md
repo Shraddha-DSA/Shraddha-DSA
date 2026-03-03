@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shraddha+Tiwari;AI%2FML+Engineer+%7C+Backend+Developer;Building+End-to-End+Intelligent+Systems;Open+Source+Contributor" />
-</p>
-
-<h1 align="center">✨ Shraddha Tiwari ✨</h1>
+# Hi, I'm Shraddha Tiwari✨
 
 **AI/ML Engineer | Backend Developer | Open Source Contributor**
 
@@ -135,6 +131,12 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 - 🐦 Twitter: https://x.com/Shraddha_401
 
 ---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shraddha-DSA/Shraddha-DSA/output/github-contribution-grid-snake.svg" />
+</p>
 
 ⭐ *If you like my work, consider starring my repositories!*
 
