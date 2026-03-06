@@ -132,13 +132,5 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-<br/>
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=0A2E73&vCenter=true&width=600&lines=Driven+by+curiosity%2C+fueled+by+data." />
-</p>
-
----
-
 ⭐ *If you like my work, consider starring my repositories!*
 
