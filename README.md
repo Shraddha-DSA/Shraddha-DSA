@@ -126,9 +126,9 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/shraddha-tiwari-91549b328/
-- ✍️ Medium: https://medium.com/@shraddhatiwari345
-- 🐦 Twitter: https://x.com/Shraddha_401
+- LinkedIn: https://www.linkedin.com/in/shraddha-tiwari-91549b328/
+- Medium: https://medium.com/@shraddhatiwari345
+- Twitter: https://x.com/Shraddha_401
 
 ---
 
