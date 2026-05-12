@@ -32,6 +32,13 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
+### 🎙 Speech AI
+![Librosa](https://img.shields.io/badge/Librosa-Audio%20Processing-E91E63?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-STT-412991?style=for-the-badge)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-2196F3?style=for-the-badge)
+![TTS](https://img.shields.io/badge/Text%20to%20Speech-FF9800?style=for-the-badge)
+
+---
 
 ### 🛠 Backend & Tools
 ![Go Backend](https://img.shields.io/badge/Go%20Backend-00ADD8?style=for-the-badge)
