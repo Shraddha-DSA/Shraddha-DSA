@@ -80,12 +80,15 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-### PM2.5 Air Quality Forecast
-- ML dashboard forecasting PM2.5 levels for Indian cities  
-- Health advisories, AQI alerts & CSV export  
-- Modern Streamlit UI  
+### ChatWithRepo
 
-**Tech:** Python, XGBoost, Streamlit
+- Engineered an AI-powered developer assistant using FastAPI and Streamlit that enables users to interactively chat with and analyze large GitHub repositories using natural language.
+
+- Built an advanced RAG pipeline using LangChain and ChromaDB with AST-aware code chunking via LanguageParser, enabling context-preserving semantic retrieval across complex codebases.
+
+- Optimized repository ingestion using GitPython-based cloning and persistent local storage, enabling efficient semantic search, real-time file analysis, and scalable querying across large repositories.
+
+**Tech:** Python, FastAPI, Streamlit, LangChain, ChromaDB, OpenAI, GitPython
 
 ---
 
