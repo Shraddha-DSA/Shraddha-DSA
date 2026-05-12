@@ -7,7 +7,7 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -127,7 +127,7 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Advanced AI/ML (CV, NLP, Deep Learning)
 - Backend Engineering with Go
 - System Design & MLOps
@@ -135,7 +135,7 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shraddha-tiwari-91549b328/
 - Medium: https://medium.com/@shraddhatiwari345
 - Twitter: https://x.com/Shraddha_401
