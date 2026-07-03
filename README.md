@@ -25,6 +25,7 @@ I build intelligent systems by combining **Machine Learning**, **Generative AI**
 `Python` • `Go` • `Java` • `SQL` • `C`
 
 **AI & Machine Learning**
+
 `Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Generative AI` • `LLMs` • `RAG`
 
 **Frameworks**
