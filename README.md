@@ -8,7 +8,6 @@ I build **production-ready AI applications** by combining **Machine Learning**, 
 
 ---
 
-```markdown
 # Tech Stack
 
 ### Languages
@@ -56,7 +55,7 @@ I build **production-ready AI applications** by combining **Machine Learning**, 
 `Postman`
 `Jupyter Notebook`
 `VS Code`
-```
+
 
 ---
 
