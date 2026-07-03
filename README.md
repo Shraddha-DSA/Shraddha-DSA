@@ -21,21 +21,26 @@ I build intelligent systems by combining **Machine Learning**, **Generative AI**
 ## Technical Skills
 
  **Languages**
+ 
 `Python` • `Go` • `Java` • `SQL` • `C`
 
 **AI & Machine Learning**
 `Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Generative AI` • `LLMs` • `RAG`
 
 **Frameworks**
+
 `FastAPI` • `Streamlit` • `LangChain` • `LangGraph` • `TensorFlow` • `Scikit-Learn`
 
 **Backend**
+
 `REST APIs` • `Gin` • `JWT Authentication` • `RBAC` • `Middleware` • `Alembic`
 
 **MLOps**
+
 `Docker` • `Kubernetes` • `Apache Airflow` • `MLflow` • `DVC` • `Prometheus` • `Grafana` • `GitHub Actions`
 
 **Cloud & Developer Tools**
+
 `AWS` • `Git` • `Postman` • `Jupyter Notebook` • `VS Code`
 
 ---
@@ -91,7 +96,9 @@ Contributed to:
 ### Connect
 
  **LinkedIn:** https://www.linkedin.com/in/shraddha-tiwari-91549b328/
+ 
  **Medium:** https://medium.com/@shraddhatiwari345
+ 
  **X (Twitter):** https://x.com/Shraddha_401
 
 ---
