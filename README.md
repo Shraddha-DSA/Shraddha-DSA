@@ -1,163 +1,99 @@
-# Hi, I'm Shraddha Tiwari :sparkles:
+# Hi, I'm Shraddha Tiwari ✨
 
-### AI/ML Engineer • Backend Developer • Open Source Contributor
+**Driven by curiosity, fueled by data.**
 
-I build **production-ready AI applications** by combining **Machine Learning**, **Generative AI**, and **Backend Engineering**.
+**AI/ML Engineer • Backend Developer • Open Source Contributor**
 
-🚀 **Currently exploring:** MLOps • LLMs • System Design • Go Backend
-
----
-
-# Tech Stack
-
-### Languages
-`Python` `Go` `Java` `SQL` `C`
-
-### AI & Machine Learning
-`Machine Learning`
-`Deep Learning`
-`Computer Vision`
-`NLP`
-`Generative AI`
-`LLMs`
-`RAG`
-`Prompt Engineering`
-
-### Frameworks
-`FastAPI`
-`Streamlit`
-`LangChain`
-`LangGraph`
-`TensorFlow`
-`Scikit-Learn`
-
-### Backend
-`REST APIs`
-`Gin`
-`JWT`
-`RBAC`
-`Middleware`
-`Alembic`
-
-### MLOps
-`Docker`
-`Kubernetes`
-`Apache Airflow`
-`MLflow`
-`DVC`
-`Prometheus`
-`Grafana`
-`GitHub Actions`
-
-### Cloud & Tools
-`AWS`
-`Git`
-`Postman`
-`Jupyter Notebook`
-`VS Code`
+I build intelligent systems by combining **Machine Learning**, **Generative AI**, and **scalable backend engineering** to solve real-world problems.
 
 
 ---
 
-# Featured Projects
+**About Me**
 
-## 🚀 ArtificialX Studio
-**Enterprise No-Code Machine Learning Platform**
-
-- Train ML models without writing code
-- Automated preprocessing & model training
-- Real-time prediction interface
-- Containerized deployment
-
-**Tech**
-`FastAPI` `Streamlit` `Docker` `Scikit-Learn`
+- Passionate about building end-to-end AI applications
+- Exploring production-grade MLOps and cloud-native AI systems
+- Constantly learning, experimenting, and shipping new projects
+- Interested in Backend Engineering, AI Infrastructure, and Developer Tools
 
 ---
 
-## 💬 ChatWithRepo
-**AI Assistant for GitHub Repositories**
+## Technical Skills
 
-- Chat with repositories using natural language
-- AST-aware code chunking
-- Semantic search with RAG
-- Supports large repositories efficiently
+ **Languages**
+`Python` • `Go` • `Java` • `SQL` • `C`
 
-**Tech**
-`FastAPI` `LangChain`
-`ChromaDB`
-`OpenAI`
-`GitPython`
+**AI & Machine Learning**
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Generative AI` • `LLMs` • `RAG`
 
----
+**Frameworks**
+`FastAPI` • `Streamlit` • `LangChain` • `LangGraph` • `TensorFlow` • `Scikit-Learn`
 
-## 🧠 SHL Assessment Recommendation Agent
+**Backend**
+`REST APIs` • `Gin` • `JWT Authentication` • `RBAC` • `Middleware` • `Alembic`
 
-- Semantic retrieval across 377+ assessments
-- LangGraph workflow
-- Gemini-powered recommendations
-- Docker deployment on Hugging Face Spaces
+**MLOps**
+`Docker` • `Kubernetes` • `Apache Airflow` • `MLflow` • `DVC` • `Prometheus` • `Grafana` • `GitHub Actions`
 
-**Tech**
-`FastAPI`
-`LangGraph`
-`Gemini`
-`FAISS`
-`Docker`
+**Cloud & Developer Tools**
+`AWS` • `Git` • `Postman` • `Jupyter Notebook` • `VS Code`
 
 ---
 
-# Open Source
+## Featured Projects
 
-### GirlScript Summer of Code 2025
+### ArtificialX Studio
+Enterprise no-code Machine Learning platform for training, evaluating, and deploying ML models with automated preprocessing and real-time inference.
 
-Contributed to
+**Tech:** `FastAPI` • `Streamlit` • `Docker` • `Scikit-Learn`
+
+---
+
+### ChatWithRepo
+An AI-powered GitHub repository assistant that enables semantic code search and repository analysis using Retrieval-Augmented Generation (RAG).
+
+**Tech:** `FastAPI` • `LangChain` • `ChromaDB` • `OpenAI`
+
+---
+
+###  SHL Assessment Recommendation Agent
+An LLM-powered recommendation system that retrieves and recommends relevant SHL assessments using LangGraph and semantic search.
+
+**Tech:** `FastAPI` • `LangGraph` • `FAISS` • `Gemini` • `Docker`
+
+---
+
+### Open Source
+
+**GirlScript Summer of Code 2025**
+
+Contributed to:
 
 - AI Interview Evaluation Bot
 - ML Price Prediction Platform
-- Driver Drowsiness Detection
+- Driver Drowsiness Detection System
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shraddha-DSA&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha-DSA&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shraddha-DSA&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha-DSA&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Shraddha-DSA&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com/?user=Shraddha-DSA&theme=tokyonight"/>
 </p>
 
 ---
 
-# Currently Learning
+### Connect
 
-- LLM Applications
-- Agentic AI
-- MLOps
-- Backend Engineering with Go
-- System Design
-- DSA
+ **LinkedIn:** https://www.linkedin.com/in/shraddha-tiwari-91549b328/
+ **Medium:** https://medium.com/@shraddhatiwari345
+ **X (Twitter):** https://x.com/Shraddha_401
 
 ---
 
-# Connect
-
-LinkedIn  
-https://www.linkedin.com/in/shraddha-tiwari-91549b328/
-
-Medium  
-https://medium.com/@shraddhatiwari345
-
-Twitter/X  
-https://x.com/Shraddha_401
-
----
-
-⭐ If you like my work, consider starring my repositories.
+⭐ *Thanks for stopping by! Feel free to explore my repositories and connect.*
