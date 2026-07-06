@@ -92,13 +92,12 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ---
 
-### ResumeOPS – AI ATS Resume Analyzer
-- Built and deployed ResumeOPS, an AI-powered ATS resume analyzer that provides role-specific scoring, skill gap detection, and actionable resume improvement suggestions. 
-- Designed a hybrid evaluation system combining deterministic ATS logic with LLM-based qualitative analysis for reliable and explainable results.
-- Implemented features including resume bullet rewriting, skill roadmap generation, active job link recommendations, and downloadable PDF reports.
-- Deployed the application on Streamlit Cloud with production-grade error handling, API rate-limit resilience, and secure environment variable management.
+### SHL Assessment Recommendation Agent
+- Built an AI-powered recommendation system that retrieves and recommends relevant SHL assessments from 377+ assessments using semantic search and Gemini 2.5 Flash.
+- Developed a LangGraph workflow for guardrails, intent detection, retrieval, and recommendation generation, exposed through a FastAPI REST API.
+- Deployed the application using Docker on Hugging Face Spaces with a publicly accessible live demo.
 
-**Tech:** Gemini API, ATS Scoring Logic, Prompt Engineering, NLP, Resume Parsing,DF Generation, API Rate-Limit Management, Error Handling
+**Tech:** Python, FastAPI, LangGraph, FAISS, Gemini, Docker
 
 ---
 
