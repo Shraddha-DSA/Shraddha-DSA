@@ -68,15 +68,18 @@ Currently focused on **AI/ML, Backend Systems, and DSA**.
 
 ## Featured Projects
 
-### ArtificialX Studio - Enterprise Machine Learning Workspace
+### RailVoice AI
 
-- Built a containerized, decoupled web platform that allows users to train, evaluate, and export machine learning models on tabular data without writing code.
+- Developed an AI-powered multilingual railway announcement system using FastAPI, automating announce
+ment generation, approval, translation, and speech synthesis.
 
-- Engineered an automated preprocessing backend via FastAPI that handles missing data imputation, categorical encoding, and model training using Scikit-Learn.
+-  Built an asynchronous processing pipeline with Celery & Redis, integrating Gemini AI for announcement
+generation and Sarvam AI for multilingual translation and TTS.
 
-- Developed a dynamic live inference engine that instantly generates user-input forms based on trained model features to serve real-time predictions.
+- Designed RESTful APIs and PostgreSQL-backed services for train schedule management, human review,
+playback queueing, and audio generation.
   
-**Tech:** Python, FastAPI, Streamlit, Docker, Scikit-Learn
+**Tech:** FastAPI, PostgreSQL, Celery, Redis, Gemini, Sarvam AI
 
 ---
 
