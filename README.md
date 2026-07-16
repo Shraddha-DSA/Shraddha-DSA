@@ -12,7 +12,7 @@ I'm passionate about building intelligent software that combines **Machine Learn
 
 <td width="30%" align="center">
 
-<img src="assets/image.png" width="170" alt="Shinchan studying"/>
+<img src="image.png" width="170" alt="Shinchan studying"/>
 
 </td>
 </tr>
