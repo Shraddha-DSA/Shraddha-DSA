@@ -2,7 +2,7 @@
 <tr>
 <td width="70%" valign="top">
 
-# Hey, I'm Shraddha Tiwari 👋
+# Hey, I'm Shraddha Tiwari :sparkles:
 
 ### AI/ML Engineer • Backend Developer • Open Source Contributor
 
