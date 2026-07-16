@@ -1,147 +1,67 @@
-# Hi, I'm Shraddha Tiwari✨
+<table>
+<tr>
+<td width="70%" valign="top">
 
-**AI/ML Engineer | Backend Developer | Open Source Contributor**
+# Hey, I'm Shraddha Tiwari 👋
 
-I build **end-to-end intelligent systems** by combining **machine learning models** with **scalable backend architectures**.  
-Currently focused on **AI/ML, Backend Systems, and DSA**.
+### AI/ML Engineer • Backend Developer • Open Source Contributor
 
----
+I'm passionate about building intelligent software that combines **Machine Learning, Generative AI, and scalable backend systems**. I enjoy transforming ideas into production-ready applications that solve real-world problems.
 
-## Tech Stack
+</td>
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<td width="30%" align="center">
 
----
+<img src="assets/image.png" width="170" alt="Shinchan studying"/>
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9C27B0?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6A1B9A?style=for-the-badge)
-![Large Language Models](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-795548?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20-283593?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-00897B?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-### 🎙 Speech AI
-![Librosa](https://img.shields.io/badge/Librosa-Audio%20Processing-E91E63?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-STT-412991?style=for-the-badge)
-![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-2196F3?style=for-the-badge)
-![TTS](https://img.shields.io/badge/Text%20to%20Speech-FF9800?style=for-the-badge)
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠 Backend & Tools
-![Go Backend](https://img.shields.io/badge/Go%20Backend-00ADD8?style=for-the-badge)
-![Gin Framework](https://img.shields.io/badge/Gin%20Framework-00ADD8?style=for-the-badge&logo=go)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![RBAC](https://img.shields.io/badge/RBAC-4A148C?style=for-the-badge)
-![Middleware](https://img.shields.io/badge/Middleware-263238?style=for-the-badge)
+## About Me
+
+- Building **AI-powered applications** with LLMs, RAG, and AI Agents.
+- Developing scalable backend services using **FastAPI, PostgreSQL, Redis, and Celery**.
+- Currently exploring **MLOps, Kubernetes, and System Design**.
+- Passionate about hackathons and solving real-world problems through AI.
+- Ask me about **Python, Machine Learning, FastAPI, LLMs, or Backend Development.**
 
 ---
 
-### ⚙️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🛠 Tech Stack
 
----
-
-### ⚙️ Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+- **Languages:** Python • Go • Java • SQL • C
+- **AI & Machine Learning:** Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • LLMs • RAG • Prompt Engineering
+- **Frameworks & Libraries:** FastAPI • Streamlit • TensorFlow • Scikit-learn • LangChain • LangGraph • Pandas • NumPy • OpenCV • Librosa
+- **Backend:** REST APIs • Gin • Pydantic • Celery • JWT Authentication • RBAC
+- **Databases:** PostgreSQL • MySQL • Redis • ChromaDB • FAISS
+- **MLOps & DevOps:** Docker • Kubernetes • MLflow • DVC • GitHub Actions • Prometheus • Grafana
+- **Cloud & Tools:** AWS • Git • Linux • Postman • VS Code • Jupyter Notebook
 
 ---
 
 ## Featured Projects
 
 ### RailVoice AI
-
-- Developed an AI-powered multilingual railway announcement system using FastAPI, automating announce
-ment generation, approval, translation, and speech synthesis.
-
--  Built an asynchronous processing pipeline with Celery & Redis, integrating Gemini AI for announcement
-generation and Sarvam AI for multilingual translation and TTS.
-
-- Designed RESTful APIs and PostgreSQL-backed services for train schedule management, human review,
-playback queueing, and audio generation.
-  
-**Tech:** FastAPI, PostgreSQL, Celery, Redis, Gemini, Sarvam AI
-
----
+AI-powered multilingual railway announcement system using **FastAPI, PostgreSQL, Celery, Redis, Gemini AI, and Sarvam AI**.
 
 ### ChatWithRepo
-
-- Engineered an AI-powered developer assistant using FastAPI and Streamlit that enables users to interactively chat with and analyze large GitHub repositories using natural language.
-
-- Built an advanced RAG pipeline using LangChain and ChromaDB with AST-aware code chunking via LanguageParser, enabling context-preserving semantic retrieval across complex codebases.
-
-- Optimized repository ingestion using GitPython-based cloning and persistent local storage, enabling efficient semantic search, real-time file analysis, and scalable querying across large repositories.
-
-**Tech:** Python, FastAPI, Streamlit, LangChain, ChromaDB, OpenAI, GitPython
-
----
+A RAG-powered GitHub repository assistant for semantic code search and repository exploration.
 
 ### SHL Assessment Recommendation Agent
-- Built an AI-powered recommendation system that retrieves and recommends relevant SHL assessments from 377+ assessments using semantic search and Gemini 2.5 Flash.
-- Developed a LangGraph workflow for guardrails, intent detection, retrieval, and recommendation generation, exposed through a FastAPI REST API.
-- Deployed the application using Docker on Hugging Face Spaces with a publicly accessible live demo.
-
-**Tech:** Python, FastAPI, LangGraph, FAISS, Gemini, Docker
+An AI recommendation engine built with **LangGraph, FAISS, Gemini, FastAPI, and Docker**.
 
 ---
 
-## 🌍 Open Source Experience
-**GirlScript Summer of Code (GSSoC) – Contributor (2025)**  
-- ML price prediction system with Streamlit deployment  
-- AI Interview Evaluation Bot (emotion, speech & answer analysis)  
-- Driver Drowsiness Detection using OpenCV & MediaPipe  
+## Currently Exploring
+
+- AI Agents & Agentic Workflows
+- MLOps & Cloud-Native AI
+- Scalable Backend Architecture & System Design
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shraddha-DSA&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha-DSA&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shraddha-DSA&theme=tokyonight"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shraddha-DSA&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## Current Focus
-- Advanced AI/ML (CV, NLP, Deep Learning)
-- Backend Engineering with Go
-- System Design & MLOps
-- Data Structures & Algorithms
-
----
-
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/shraddha-tiwari-91549b328/
-- Medium: https://medium.com/@shraddhatiwari345
-- Twitter: https://x.com/Shraddha_401
-
----
-
-⭐ *If you like my work, consider starring my repositories!*
+### **Driven by curiosity, fueled by Data. 🚀**
